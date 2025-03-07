@@ -93,9 +93,9 @@ python run.py
 ¡Las contribuciones son bienvenidas! Por favor, lee las pautas de contribución antes de enviar un pull request.
 
 ## Licencia 📄
-[Especificar Licencia, por ejemplo MIT]
+MIT
 
 ## Contacto 📧
-- Nombre del Desarrollador
-- Correo electrónico
-- Perfil de GitHub
+- Juan E Roclaw  
+- juaneroclaw@gmail.com
+- juaneroclaw
