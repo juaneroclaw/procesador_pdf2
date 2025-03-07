@@ -1,0 +1,6 @@
+lxml
+pdfplumber
+Pillow
+pdf2image
+PyPDF2
+python-docx
